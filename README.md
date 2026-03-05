@@ -35,7 +35,7 @@ Users can interact with the system through a Streamlit web interface to discover
 
 ## Project Structure
 
-ted-talk-recommendation
+TED-Talk-Recommendation-System
 │
 ├── TED_Talk.csv
 ├── mainfile.ipynb
